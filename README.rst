@@ -29,9 +29,9 @@ The aws-cli package works on Python versions:
    aws-cli.
 
 
-------------
+---------------
 Installation
-------------
+--------------
 
 The easiest way to install aws-cli is to use `pip`_ in a ``virtualenv``::
 
